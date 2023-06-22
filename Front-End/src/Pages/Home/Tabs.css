@@ -1,0 +1,20 @@
+.react-tabs {
+    /* Styles for the entire tabs container */
+    background-color: ;
+    margin-top: 10px;
+  }
+  
+  .react-tabs__tab-list {
+    border-bottom: 2px solid black;
+    /* Styles for the tab list container */
+  }
+  
+  
+  .react-tabs__tab--selected {
+    /* Styles for the selected tab */
+    background-color: #fcae1e;
+   color: aliceblue;
+   font-weight: 600;
+  }
+  
+ 
